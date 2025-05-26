@@ -334,7 +334,7 @@ Learn to build a website with [LandChad.net](https://landchad.net/)
 [https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/)
 
 [Practicepython.org](http://www.practicepython.org/)
-[Python Tutorial: A Comprehensive Guide for Beginners](https://wiingy.com/learn/python/python-tutorial/)
+[Python Tutorial: A Comprehensive Guide for Beginners](https://wiingy.com/learn/python/python-overview/)
 
 ### **Javascript**
 
