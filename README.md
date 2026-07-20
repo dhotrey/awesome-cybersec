@@ -21,6 +21,7 @@ A collection of awesome platforms, blogs, documents, books, resources and cool s
  * [Blue team academy](https://app.letsdefend.io/academy/)
  * [Blue team labs](https://blueteamlabs.online/)
  * [Kali revealed](https://kali.training/)
+ * [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
  * [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)
  * [platform.mosse-institute.com](https://platform.mosse-institute.com/#/dashboard)
  * [riptutorial.com/bash](https://riptutorial.com/bash)  
