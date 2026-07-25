@@ -135,6 +135,8 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - [Service Enumeration](https://github.com/ssstonebraker/Pentest-Service-Enumeration)
 - 
 
+- [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - Dependency-free Next.js security headers baseline with conservative defaults and a production verifier.
+
 ## CTF's
  *  [https://ctftime.org/](https://ctftime.org/) 
  *  [https://ctf.hackthebox.eu/ctfs](https://ctf.hackthebox.eu/ctfs)
