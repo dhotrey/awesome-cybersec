@@ -280,6 +280,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 * [Osint framework](https://osintframework.com/)
 * [Getting started with OSINT](https://www.reddit.com/r/OSINT/comments/e78he1/osint_for_beginners_part_1_introduction/?utm_source=share&utm_medium=web2x&context=3) 
 * [Vulnhub resources](https://www.vulnhub.com/resources/)
+* [Internet Cyber Health Index (ICHI)](https://ichi.global) — Free, source-transparent daily internet cyber-health barometer. Aggregates 20+ public threat intel feeds (CISA KEV, Shodan, Censys, abuse.ch, CVE/NVD and more) into a composite daily index score with live dashboard. No account needed.
 
 
 ## Programing resources 
