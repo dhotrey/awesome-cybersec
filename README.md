@@ -269,6 +269,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [Pentester academy - red team labs](https://www.pentesteracademy.com/topics)
   * [Pentester labs](https://pentesterlab.com/)
   * [KodeKloud](https://learn.kodekloud.com/courses)
+  * [CipherExam](https://cipherexam.com/) Practice questions and PBQs for CompTIA Security+, Network+ and A+ Core 2, with explanations of the reasoning behind each answer; 14-day free trial.
 
 ## Resources
 * [https://startupstash.com/cybersecurity-resources/](https://startupstash.com/cybersecurity-resources/)
