@@ -138,6 +138,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
 - 
 
 - [Poszo Next.js Security Headers Starter](https://github.com/poszothebuilder/poszo-nextjs-security-headers) - Dependency-free Next.js security headers baseline with conservative defaults and a production verifier.
+- [VibeShield & Vibe Security Checklist](https://github.com/zColdWater/vibe-security-checklist) - MIT-licensed 12-point web app security hardening baseline (Vercel, Next.js, Cloudflare, Supabase RLS, Firebase) paired with a free 116-check passive pre-launch scanner.
 
 ## CTF's
  *  [https://ctftime.org/](https://ctftime.org/) 
