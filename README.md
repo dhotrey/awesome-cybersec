@@ -218,6 +218,7 @@ We've gathered some useful resources to get your started on your bug bounty jour
   * [OSEE prep resources](https://github.com/dhn/OSEE)
   * [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
   * [Thefuck](https://github.com/nvbn/thefuck)
+  * [Onion Routing Anatomy](https://github.com/aleff-github/onion-routing-anatomy) - A free, open-source technical book on the Tor protocol, available in five languages, with 20 reproducible private-network laboratories.
   
   
   
